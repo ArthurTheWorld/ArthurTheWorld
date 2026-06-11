@@ -1,13 +1,16 @@
-```
--
-- identity confirmed: ArthurTheWorld
-- thread level: DATA ENGINEER
-- location: Brasília, DF — BRAZIL
-- status: ACTIVE
-```
 <div align="center">
   <img src="https://media1.tenor.com/m/_4EP4iGn0j0AAAAd/bleach-bleach-anime.gif" width="800" />
 </div>
+
+---
+
+```
+> identity confirmed: ArthurTheWorld
+> clearance level: DATA ENGINEER
+> location: Brasília, DF — BRAZIL
+> status: ACTIVE
+```
+
 ---
 
 ## SHIKAI
@@ -17,7 +20,6 @@
 ---
 
 ## Ichigo, salve a soul society!
-
 
 Data Engineer com +3 anos em campo construindo pipelines robustos, arquiteturas de dados escaláveis e soluções de engenharia que realmente funcionam em produção.
 
@@ -34,8 +36,6 @@ De agora em diante, eu estarei sentado nele.
 ---
 
 ## BANKAI
-
-
 
 **Linguagens & Query**
 `Python` `SQL`
@@ -61,26 +61,19 @@ Use the right tool. Every time.
 ## MISSÕES ATIVAS
 
 ```
- Você não conhece as pessoas, você conhece a parte que elas permitem que você veja.
+Você não conhece as pessoas, você conhece a parte que elas permitem que você veja.
 ```
-
-
 
 ---
 
-## Fora da Soul SOciety
+## Fora da Soul Society
 
-
-O  shinigami é encontrado assistindo:
+O shinigami é encontrado assistindo:
 
 - **JoJo's Bizarre Adventure** / **Jujutsu Kaisen** / **Bleach**
 - **The Sopranos** · **Duna**
 
-E ouvindo: **Crowbar** · **Paleface Swiss** **Clarion%** 
-
-```
-
-```
+E ouvindo: **Crowbar** · **Paleface Swiss** · **Clarion%**
 
 ---
 
@@ -93,6 +86,6 @@ Tememos aquilo que não vemos. Não vemos, por isso respeitamos...
 Aberto para oportunidades em Engenharia de Dados — CLT, Brasília ou remoto.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-rufino)
-[![GitHub](https://img.shields..io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArthurTheWorld)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArthurTheWorld)
 
 ---
