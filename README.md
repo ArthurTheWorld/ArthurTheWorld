@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/3BtatZgnVeAAAAAd/bleach-ichigo.gif" width="800" />
+  <img src="https://media1.tenor.com/m/8sXOMjtth00AAAAC/ichigo-zangetsu.gif" width="800" />
 </div>
 
 ---
