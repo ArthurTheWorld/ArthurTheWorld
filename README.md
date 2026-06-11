@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/tr4MEZ6ZUDoAAAAC/ichigo-rain.gif" width="800" />
+  <img src="https://media1.tenor.com/m/3BtatZgnVeAAAAAd/bleach-ichigo.gif" width="800" />
 </div>
 
 ---
@@ -73,7 +73,7 @@ O shinigami é encontrado assistindo:
 - **JoJo's Bizarre Adventure** / **Jujutsu Kaisen** / **Bleach**
 - **The Sopranos** · **Duna**
 
-E ouvindo: **Crowbar** · **Paleface Swiss** · **Clarion%**
+E ouvindo: **Crowbar** · **Paleface Swiss** · **Clarion**
 
 ---
 
