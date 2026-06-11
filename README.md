@@ -1,25 +1,23 @@
 ```
-> initializing connection...
-> identity confirmed: ArthurTheWorld
-> clearance level: DATA ENGINEER
-> location: Brasília, DF — BRAZIL
-> status: ACTIVE
+-
+- identity confirmed: ArthurTheWorld
+- thread level: DATA ENGINEER
+- location: Brasília, DF — BRAZIL
+- status: ACTIVE
 ```
+<div align="center">
+  <img src="https://media1.tenor.com/m/_4EP4iGn0j0AAAAd/bleach-bleach-anime.gif" width="800" />
+</div>
+---
+
+## SHIKAI
+
+**Engenheiro De Dados** · Pipeline Architecture · Streaming · Cloud Infrastructure
 
 ---
 
-## MISSION PROFILE
+## Ichigo, salve a soul society!
 
-**Data Engineering** · Pipeline Architecture · Streaming · Cloud Infrastructure
-
----
-
-## MISSION BRIEF // CLASSIFIED
-
-```
-> loading operative file...
-> access granted
-```
 
 Data Engineer com +3 anos em campo construindo pipelines robustos, arquiteturas de dados escaláveis e soluções de engenharia que realmente funcionam em produção.
 
@@ -28,16 +26,16 @@ Atuação em projetos com ingestão em tempo real, orquestração de fluxos comp
 Formando em Análise e Desenvolvimento de Sistemas — Grupo Projeção, Brasília.
 
 ```
-Stay sharp. Bad pipelines cost missions.
+Ninguém começa no topo do mundo. Nem você, nem eu, nem mesmo os deuses.
+Mas o insuportável vazio no trono dos céus acabou.
+De agora em diante, eu estarei sentado nele.
 ```
 
 ---
 
-## ARSENAL
+## BANKAI
 
-```
-> loading tech stack...
-```
+
 
 **Linguagens & Query**
 `Python` `SQL`
@@ -63,48 +61,33 @@ Use the right tool. Every time.
 ## MISSÕES ATIVAS
 
 ```
-> scanning active operations...
+ Você não conhece as pessoas, você conhece a parte que elas permitem que você veja.
 ```
 
-**[TechPulse Jobs](https://github.com/ArthurTheWorld/techpulse-jobs)**
-Plataforma web que agrega vagas de tecnologia consumindo 5 APIs públicas em tempo real.
-Autenticação SHA-256 · Flask + SQLite · frontend temático.
-`Python` `Flask` `SQLite` `JavaScript`
 
-**[Linux Reborn](https://github.com/ArthurTheWorld/linux-reborn)**
-Projeto de extensão universitária — distro Linux para reviver hardware legado.
-Open source. Missão social.
-`Linux` `Shell Script`
-
-```
-Mais operações em andamento. Em breve.
-```
 
 ---
 
-## PERFIL PSICOLÓGICO
+## Fora da Soul SOciety
 
-```
-> cross-referencing personal data...
-```
 
-Fora do terminal, o operador é encontrado assistindo:
+O  shinigami é encontrado assistindo:
 
 - **JoJo's Bizarre Adventure** / **Jujutsu Kaisen** / **Bleach**
-- **The Sopranos** · **Dune**
+- **The Sopranos** · **Duna**
 
-E ouvindo: **Deftones** · **Paleface Swiss**
+E ouvindo: **Crowbar** · **Paleface Swiss** **Clarion%** 
 
 ```
-Know your operative. Trust the process.
+
 ```
 
 ---
 
-## CANAL DE COMUNICAÇÃO
+## CONTATO
 
 ```
-> establishing secure channel...
+Tememos aquilo que não vemos. Não vemos, por isso respeitamos...
 ```
 
 Aberto para oportunidades em Engenharia de Dados — CLT, Brasília ou remoto.
@@ -113,11 +96,3 @@ Aberto para oportunidades em Engenharia de Dados — CLT, Brasília ou remoto.
 [![GitHub](https://img.shields..io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArthurTheWorld)
 
 ---
-
-## TRANSMISSÃO FINAL
-
-```
-> mission status: ongoing
-> next objective: loading...
-> system standing by...
-```
