@@ -83,9 +83,8 @@ E ouvindo: **Crowbar** · **Paleface Swiss** · **Clarion**
 Tememos aquilo que não vemos. Não vemos, por isso respeitamos...
 ```
 
-Aberto para oportunidades em Engenharia de Dados — CLT, Brasília ou remoto.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/luiz-arthur](https://www.linkedin.com/in/luiz-arthur-/))
+Aberto para oportunidades em Engenharia de Dados — CLT, Brasília ou remoto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-arthur-/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArthurTheWorld)
 
 ---
